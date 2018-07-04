@@ -1,11 +1,11 @@
 import firebase from 'firebase'
 var config = {
-  apiKey: 'AIzaSyACppItbWOUttdCVSBCr0_8X3sipYSWYx8',
-  authDomain: 'employee-cb439.firebaseapp.com',
-  databaseURL: 'https://employee-cb439.firebaseio.com',
-  projectId: 'employee-cb439',
-  storageBucket: 'employee-cb439.appspot.com',
-  messagingSenderId: '306456203046'
+  apiKey: 'AIzaSyBggkaoeSgsd2zH_1cpwGZx90-x37R6zSE',
+  authDomain: 'todolist-31146.firebaseapp.com',
+  databaseURL: 'https://todolist-31146.firebaseio.com',
+  projectId: 'todolist-31146',
+  storageBucket: 'todolist-31146.appspot.com',
+  messagingSenderId: '533162468137'
 }
 
 export const app = firebase.initializeApp(config)
