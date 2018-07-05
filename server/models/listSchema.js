@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 const Schema = mongoose.Schema
-mongoose.connect("mongodb://localhost:27017/todolist")
+mongoose.connect("mongodb://user1:12345a@ds227481.mlab.com:27481/todolistaaaa")
 
 const listSchema = new Schema({
     name:String,
